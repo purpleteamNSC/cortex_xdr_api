@@ -1,2 +1,2 @@
 # cortex_xdr_api
-Cortex XDR Api
+Cortex XDR API 
